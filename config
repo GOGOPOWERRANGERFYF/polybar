@@ -997,7 +997,7 @@ label = %temperature-c%
 ;   %temperature% (deprecated)
 ;   %temperature-c%   (default, temperature in °C)
 ;   %temperature-f%   (temperature in °F)
-label-warn = %temperature-c%°C
+label-warn = %temperature-c%
 label-warn-foreground = #f00
 
 ; Requires the <ramp> tag
