@@ -975,7 +975,7 @@ format-warn-underline = ${self.format-underline}
 
 ; Whether or not to show units next to the temperature tokens (°C, °F)
 ; Default: true
-units = false
+;units = false
 
 ; Available tags:
 ;   <label> (default)
@@ -991,7 +991,7 @@ format-warn = <ramp> <label-warn>
 ;   %temperature% (deprecated)
 ;   %temperature-c%   (default, temperature in °C)
 ;   %temperature-f%   (temperature in °F)
-label = %temperature-c%°C
+label = %temperature-c%
 
 ; Available tokens:
 ;   %temperature% (deprecated)
